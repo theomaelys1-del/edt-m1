@@ -1,0 +1,970 @@
+[
+  {
+    "uid": "2026-09-07T1430-cours@edt-m1",
+    "start": "2026-09-07T14:30:00+02:00",
+    "end": "2026-09-07T16:00:00+02:00",
+    "subject": "RENTREE",
+    "room": "amphi 2",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-09-08T0900-cours@edt-m1",
+    "start": "2026-09-08T09:00:00+02:00",
+    "end": "2026-09-08T12:30:00+02:00",
+    "subject": "UEL",
+    "room": "amphi 1",
+    "teacher": ""
+  },
+  {
+    "uid": "2026-09-08T1330-cours@edt-m1",
+    "start": "2026-09-08T13:30:00+02:00",
+    "end": "2026-09-08T17:00:00+02:00",
+    "subject": "UEL",
+    "room": "207 / 209 / 211",
+    "teacher": ""
+  },
+  {
+    "uid": "2026-09-14T0900-cours@edt-m1",
+    "start": "2026-09-14T09:00:00+02:00",
+    "end": "2026-09-14T12:00:00+02:00",
+    "subject": "Anglais",
+    "room": "305",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2026-09-14T1330-cours@edt-m1",
+    "start": "2026-09-14T13:30:00+02:00",
+    "end": "2026-09-14T17:00:00+02:00",
+    "subject": "Intelligence économique",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-09-15T0900-cours@edt-m1",
+    "start": "2026-09-15T09:00:00+02:00",
+    "end": "2026-09-15T12:30:00+02:00",
+    "subject": "Finance internationale",
+    "room": "307",
+    "teacher": "Maxime DEBON"
+  },
+  {
+    "uid": "2026-09-15T1330-cours@edt-m1",
+    "start": "2026-09-15T13:30:00+02:00",
+    "end": "2026-09-15T17:00:00+02:00",
+    "subject": "Géopolitique",
+    "room": "305",
+    "teacher": "Cyril VICTOR"
+  },
+  {
+    "uid": "2026-09-21T0900-cours@edt-m1",
+    "start": "2026-09-21T09:00:00+02:00",
+    "end": "2026-09-21T12:30:00+02:00",
+    "subject": "Intelligence économique",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-09-21T1330-cours@edt-m1",
+    "start": "2026-09-21T13:30:00+02:00",
+    "end": "2026-09-21T16:30:00+02:00",
+    "subject": "Anglais",
+    "room": "305",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2026-09-22T0900-cours@edt-m1",
+    "start": "2026-09-22T09:00:00+02:00",
+    "end": "2026-09-22T12:30:00+02:00",
+    "subject": "Géopolitique",
+    "room": "307",
+    "teacher": "Cyril VICTOR"
+  },
+  {
+    "uid": "2026-09-22T1330-cours@edt-m1",
+    "start": "2026-09-22T13:30:00+02:00",
+    "end": "2026-09-22T17:00:00+02:00",
+    "subject": "Finance internationale",
+    "room": "305",
+    "teacher": "Maxime DEBON"
+  },
+  {
+    "uid": "2026-09-28T0900-cours@edt-m1",
+    "start": "2026-09-28T09:00:00+02:00",
+    "end": "2026-09-28T12:00:00+02:00",
+    "subject": "Anglais",
+    "room": "305",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2026-09-28T1330-cours@edt-m1",
+    "start": "2026-09-28T13:30:00+02:00",
+    "end": "2026-09-28T17:00:00+02:00",
+    "subject": "Intelligence économique",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-09-29T0900-cours@edt-m1",
+    "start": "2026-09-29T09:00:00+02:00",
+    "end": "2026-09-29T12:30:00+02:00",
+    "subject": "Droit des affaires",
+    "room": "307",
+    "teacher": "Bastien FERON"
+  },
+  {
+    "uid": "2026-09-29T1330-cours@edt-m1",
+    "start": "2026-09-29T13:30:00+02:00",
+    "end": "2026-09-29T17:00:00+02:00",
+    "subject": "Finance internationale",
+    "room": "111",
+    "teacher": "Maxime DEBON"
+  },
+  {
+    "uid": "2026-10-05T0900-cours@edt-m1",
+    "start": "2026-10-05T09:00:00+02:00",
+    "end": "2026-10-05T12:30:00+02:00",
+    "subject": "Intelligence économique",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-10-05T1330-cours@edt-m1",
+    "start": "2026-10-05T13:30:00+02:00",
+    "end": "2026-10-05T17:00:00+02:00",
+    "subject": "Contrôle de gestion et analyse des coûts",
+    "room": "401",
+    "teacher": "Nathalie FOURNIER"
+  },
+  {
+    "uid": "2026-10-06T0900-cours@edt-m1",
+    "start": "2026-10-06T09:00:00+02:00",
+    "end": "2026-10-06T12:30:00+02:00",
+    "subject": "Géopolitique",
+    "room": "307",
+    "teacher": "Cyril VICTOR"
+  },
+  {
+    "uid": "2026-10-06T1330-cours@edt-m1",
+    "start": "2026-10-06T13:30:00+02:00",
+    "end": "2026-10-06T17:00:00+02:00",
+    "subject": "Finance internationale",
+    "room": "305",
+    "teacher": "Maxime DEBON"
+  },
+  {
+    "uid": "2026-10-12T0900-cours@edt-m1",
+    "start": "2026-10-12T09:00:00+02:00",
+    "end": "2026-10-12T12:00:00+02:00",
+    "subject": "Anglais",
+    "room": "307",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2026-10-12T1330-cours@edt-m1",
+    "start": "2026-10-12T13:30:00+02:00",
+    "end": "2026-10-12T17:00:00+02:00",
+    "subject": "Intelligence économique",
+    "room": "305",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-10-13T0900-cours@edt-m1",
+    "start": "2026-10-13T09:00:00+02:00",
+    "end": "2026-10-13T12:30:00+02:00",
+    "subject": "Finance internationale",
+    "room": "307",
+    "teacher": "Maxime DEBON"
+  },
+  {
+    "uid": "2026-10-13T1330-cours@edt-m1",
+    "start": "2026-10-13T13:30:00+02:00",
+    "end": "2026-10-13T17:00:00+02:00",
+    "subject": "Géopolitique",
+    "room": "305",
+    "teacher": "Cyril VICTOR"
+  },
+  {
+    "uid": "2026-10-19T0900-cours@edt-m1",
+    "start": "2026-10-19T09:00:00+02:00",
+    "end": "2026-10-19T12:30:00+02:00",
+    "subject": "A définir",
+    "room": "307",
+    "teacher": ""
+  },
+  {
+    "uid": "2026-10-19T1330-cours@edt-m1",
+    "start": "2026-10-19T13:30:00+02:00",
+    "end": "2026-10-19T17:00:00+02:00",
+    "subject": "LV2 Espagnol",
+    "room": "305",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2026-10-20T0930-cours@edt-m1",
+    "start": "2026-10-20T09:30:00+02:00",
+    "end": "2026-10-20T12:00:00+02:00",
+    "subject": "Finance internationale PARTIEL",
+    "room": "307",
+    "teacher": "Maxime DEBON"
+  },
+  {
+    "uid": "2026-10-20T1330-cours@edt-m1",
+    "start": "2026-10-20T13:30:00+02:00",
+    "end": "2026-10-20T17:00:00+02:00",
+    "subject": "Géopolitique",
+    "room": "305",
+    "teacher": "Cyril VICTOR"
+  },
+  {
+    "uid": "2026-11-02T0900-cours@edt-m1",
+    "start": "2026-11-02T09:00:00+01:00",
+    "end": "2026-11-02T12:30:00+01:00",
+    "subject": "Contrôle de gestion et analyse des coûts",
+    "room": "",
+    "teacher": "Nathalie FOURNIER"
+  },
+  {
+    "uid": "2026-11-02T1330-cours@edt-m1",
+    "start": "2026-11-02T13:30:00+01:00",
+    "end": "2026-11-02T17:00:00+01:00",
+    "subject": "IA et outils d'aide à la décision",
+    "room": "305",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2026-11-03T0900-cours@edt-m1",
+    "start": "2026-11-03T09:00:00+01:00",
+    "end": "2026-11-03T12:30:00+01:00",
+    "subject": "Géopolitique PARTIEL",
+    "room": "",
+    "teacher": "Cyril VICTOR"
+  },
+  {
+    "uid": "2026-11-03T1330-cours@edt-m1",
+    "start": "2026-11-03T13:30:00+01:00",
+    "end": "2026-11-03T17:00:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2026-11-09T0930-cours@edt-m1",
+    "start": "2026-11-09T09:30:00+01:00",
+    "end": "2026-11-09T12:00:00+01:00",
+    "subject": "Intelligence économique Examen",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-11-09T1330-cours@edt-m1",
+    "start": "2026-11-09T13:30:00+01:00",
+    "end": "2026-11-09T16:00:00+01:00",
+    "subject": "Anglais PARTIEL",
+    "room": "305",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2026-11-10T0900-cours@edt-m1",
+    "start": "2026-11-10T09:00:00+01:00",
+    "end": "2026-11-10T12:30:00+01:00",
+    "subject": "Marketing industriel et des achats",
+    "room": "305",
+    "teacher": "Annie BANIKEMANDJANDA"
+  },
+  {
+    "uid": "2026-11-10T1330-cours@edt-m1",
+    "start": "2026-11-10T13:30:00+01:00",
+    "end": "2026-11-10T17:00:00+01:00",
+    "subject": "Méthodologie de recherche mémoire",
+    "room": "307",
+    "teacher": "Liliana MITKOVA"
+  },
+  {
+    "uid": "2026-11-16T0900-cours@edt-m1",
+    "start": "2026-11-16T09:00:00+01:00",
+    "end": "2026-11-16T12:30:00+01:00",
+    "subject": "Droit des affaires",
+    "room": "307",
+    "teacher": "Bastien FERON"
+  },
+  {
+    "uid": "2026-11-16T1330-cours@edt-m1",
+    "start": "2026-11-16T13:30:00+01:00",
+    "end": "2026-11-16T17:00:00+01:00",
+    "subject": "Contrôle de gestion et analyse des coûts",
+    "room": "",
+    "teacher": "Nathalie FOURNIER"
+  },
+  {
+    "uid": "2026-11-17T0900-cours@edt-m1",
+    "start": "2026-11-17T09:00:00+01:00",
+    "end": "2026-11-17T12:30:00+01:00",
+    "subject": "Marketing industriel et des achats",
+    "room": "307",
+    "teacher": "Annie BANIKEMANDJANDA"
+  },
+  {
+    "uid": "2026-11-17T1330-cours@edt-m1",
+    "start": "2026-11-17T13:30:00+01:00",
+    "end": "2026-11-17T17:00:00+01:00",
+    "subject": "A définir",
+    "room": "305",
+    "teacher": ""
+  },
+  {
+    "uid": "2026-11-23T0900-cours@edt-m1",
+    "start": "2026-11-23T09:00:00+01:00",
+    "end": "2026-11-23T12:30:00+01:00",
+    "subject": "Fondamentaux du management & management d'équipe",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-11-23T1330-cours@edt-m1",
+    "start": "2026-11-23T13:30:00+01:00",
+    "end": "2026-11-23T17:00:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "305",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2026-11-24T0900-cours@edt-m1",
+    "start": "2026-11-24T09:00:00+01:00",
+    "end": "2026-11-24T12:30:00+01:00",
+    "subject": "IA et outils d'aide à la décision",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2026-11-24T1330-cours@edt-m1",
+    "start": "2026-11-24T13:30:00+01:00",
+    "end": "2026-11-24T17:00:00+01:00",
+    "subject": "Marketing industriel et des achats",
+    "room": "307",
+    "teacher": "Annie BANIKEMANDJANDA"
+  },
+  {
+    "uid": "2026-11-30T0900-cours@edt-m1",
+    "start": "2026-11-30T09:00:00+01:00",
+    "end": "2026-11-30T12:30:00+01:00",
+    "subject": "Fondamentaux du management & management d'équipe",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-11-30T1330-cours@edt-m1",
+    "start": "2026-11-30T13:30:00+01:00",
+    "end": "2026-11-30T17:00:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "305",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2026-12-01T0900-cours@edt-m1",
+    "start": "2026-12-01T09:00:00+01:00",
+    "end": "2026-12-01T12:30:00+01:00",
+    "subject": "Gestion de projet",
+    "room": "307",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2026-12-01T1330-cours@edt-m1",
+    "start": "2026-12-01T13:30:00+01:00",
+    "end": "2026-12-01T17:00:00+01:00",
+    "subject": "Marketing industriel et des achats",
+    "room": "305",
+    "teacher": "Annie BANIKEMANDJANDA"
+  },
+  {
+    "uid": "2026-12-07T0900-cours@edt-m1",
+    "start": "2026-12-07T09:00:00+01:00",
+    "end": "2026-12-07T12:30:00+01:00",
+    "subject": "Fondamentaux du management & management d'équipe",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-12-07T1330-cours@edt-m1",
+    "start": "2026-12-07T13:30:00+01:00",
+    "end": "2026-12-07T17:00:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "305",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2026-12-08T0900-cours@edt-m1",
+    "start": "2026-12-08T09:00:00+01:00",
+    "end": "2026-12-08T12:30:00+01:00",
+    "subject": "Marketing industriel et des achats",
+    "room": "307",
+    "teacher": "Annie BANIKEMANDJANDA"
+  },
+  {
+    "uid": "2026-12-08T1330-cours@edt-m1",
+    "start": "2026-12-08T13:30:00+01:00",
+    "end": "2026-12-08T17:00:00+01:00",
+    "subject": "Gestion de projet",
+    "room": "305",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2026-12-14T0900-cours@edt-m1",
+    "start": "2026-12-14T09:00:00+01:00",
+    "end": "2026-12-14T12:30:00+01:00",
+    "subject": "Fondamentaux du management & management d'équipe",
+    "room": "307",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2026-12-14T1330-cours@edt-m1",
+    "start": "2026-12-14T13:30:00+01:00",
+    "end": "2026-12-14T16:00:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2026-12-15T0900-cours@edt-m1",
+    "start": "2026-12-15T09:00:00+01:00",
+    "end": "2026-12-15T12:30:00+01:00",
+    "subject": "Gestion de projet",
+    "room": "307",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2026-12-15T1330-cours@edt-m1",
+    "start": "2026-12-15T13:30:00+01:00",
+    "end": "2026-12-15T16:00:00+01:00",
+    "subject": "Marketing industriel et des achats PARTIEL",
+    "room": "305",
+    "teacher": "Annie BANIKEMANDJANDA"
+  },
+  {
+    "uid": "2027-01-04T0900-cours@edt-m1",
+    "start": "2027-01-04T09:00:00+01:00",
+    "end": "2027-01-04T12:30:00+01:00",
+    "subject": "Contrôle de gestion et analyse des coûts",
+    "room": "",
+    "teacher": "Nathalie FOURNIER"
+  },
+  {
+    "uid": "2027-01-04T1330-cours@edt-m1",
+    "start": "2027-01-04T13:30:00+01:00",
+    "end": "2027-01-04T17:00:00+01:00",
+    "subject": "Gestion de projet",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-01-05T0900-cours@edt-m1",
+    "start": "2027-01-05T09:00:00+01:00",
+    "end": "2027-01-05T12:30:00+01:00",
+    "subject": "IA et outils d'aide à la décision",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-01-05T1330-cours@edt-m1",
+    "start": "2027-01-05T13:30:00+01:00",
+    "end": "2027-01-05T17:00:00+01:00",
+    "subject": "Droit des affaires",
+    "room": "",
+    "teacher": "Bastien FERON"
+  },
+  {
+    "uid": "2027-01-11T0900-cours@edt-m1",
+    "start": "2027-01-11T09:00:00+01:00",
+    "end": "2027-01-11T12:30:00+01:00",
+    "subject": "Fondamentaux du management & management d'équipe",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-01-11T1330-cours@edt-m1",
+    "start": "2027-01-11T13:30:00+01:00",
+    "end": "2027-01-11T16:30:00+01:00",
+    "subject": "Anglais",
+    "room": "",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2027-01-12T0900-cours@edt-m1",
+    "start": "2027-01-12T09:00:00+01:00",
+    "end": "2027-01-12T12:30:00+01:00",
+    "subject": "Méthodologie de recherche mémoire",
+    "room": "",
+    "teacher": "Liliana MITKOVA"
+  },
+  {
+    "uid": "2027-01-12T1330-cours@edt-m1",
+    "start": "2027-01-12T13:30:00+01:00",
+    "end": "2027-01-12T17:00:00+01:00",
+    "subject": "Gestion de projet",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-01-18T0900-cours@edt-m1",
+    "start": "2027-01-18T09:00:00+01:00",
+    "end": "2027-01-18T12:00:00+01:00",
+    "subject": "Anglais",
+    "room": "",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2027-01-18T1330-cours@edt-m1",
+    "start": "2027-01-18T13:30:00+01:00",
+    "end": "2027-01-18T17:00:00+01:00",
+    "subject": "Politique et stratégie des achats",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-01-19T0900-cours@edt-m1",
+    "start": "2027-01-19T09:00:00+01:00",
+    "end": "2027-01-19T12:30:00+01:00",
+    "subject": "Droit des affaires",
+    "room": "",
+    "teacher": "Bastien FERON"
+  },
+  {
+    "uid": "2027-01-19T1330-cours@edt-m1",
+    "start": "2027-01-19T13:30:00+01:00",
+    "end": "2027-01-19T17:00:00+01:00",
+    "subject": "IA et outils d'aide à la décision",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-01-25T0900-cours@edt-m1",
+    "start": "2027-01-25T09:00:00+01:00",
+    "end": "2027-01-25T12:30:00+01:00",
+    "subject": "IA et outils d'aide à la décision",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-01-25T1330-cours@edt-m1",
+    "start": "2027-01-25T13:30:00+01:00",
+    "end": "2027-01-25T16:30:00+01:00",
+    "subject": "Anglais",
+    "room": "",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2027-01-26T0900-cours@edt-m1",
+    "start": "2027-01-26T09:00:00+01:00",
+    "end": "2027-01-26T12:30:00+01:00",
+    "subject": "Politique et stratégie des achats",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-01-26T1330-cours@edt-m1",
+    "start": "2027-01-26T13:30:00+01:00",
+    "end": "2027-01-26T17:00:00+01:00",
+    "subject": "Droit des affaires",
+    "room": "",
+    "teacher": "Bastien FERON"
+  },
+  {
+    "uid": "2027-02-01T0900-cours@edt-m1",
+    "start": "2027-02-01T09:00:00+01:00",
+    "end": "2027-02-01T12:30:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-02-01T1330-cours@edt-m1",
+    "start": "2027-02-01T13:30:00+01:00",
+    "end": "2027-02-01T17:00:00+01:00",
+    "subject": "Contrôle de gestion et analyse des coûts",
+    "room": "",
+    "teacher": "Nathalie FOURNIER"
+  },
+  {
+    "uid": "2027-02-02T0900-cours@edt-m1",
+    "start": "2027-02-02T09:00:00+01:00",
+    "end": "2027-02-02T12:30:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-02-02T1330-cours@edt-m1",
+    "start": "2027-02-02T13:30:00+01:00",
+    "end": "2027-02-02T17:00:00+01:00",
+    "subject": "Méthodologie de recherche mémoire",
+    "room": "",
+    "teacher": "Liliana MITKOVA"
+  },
+  {
+    "uid": "2027-02-08T0900-cours@edt-m1",
+    "start": "2027-02-08T09:00:00+01:00",
+    "end": "2027-02-08T12:00:00+01:00",
+    "subject": "Anglais",
+    "room": "",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2027-02-08T1330-cours@edt-m1",
+    "start": "2027-02-08T13:30:00+01:00",
+    "end": "2027-02-08T17:00:00+01:00",
+    "subject": "IA et outils d'aide à la décision PARTIEL",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-02-09T0900-cours@edt-m1",
+    "start": "2027-02-09T09:00:00+01:00",
+    "end": "2027-02-09T12:30:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2027-02-09T1330-cours@edt-m1",
+    "start": "2027-02-09T13:30:00+01:00",
+    "end": "2027-02-09T16:00:00+01:00",
+    "subject": "Droit des affaires PARTIEL",
+    "room": "",
+    "teacher": "Bastien FERON"
+  },
+  {
+    "uid": "2027-02-22T0930-cours@edt-m1",
+    "start": "2027-02-22T09:30:00+01:00",
+    "end": "2027-02-22T12:00:00+01:00",
+    "subject": "Contrôle de gestion et analyse des coûts PARTIEL",
+    "room": "",
+    "teacher": "Nathalie FOURNIER"
+  },
+  {
+    "uid": "2027-02-22T1330-cours@edt-m1",
+    "start": "2027-02-22T13:30:00+01:00",
+    "end": "2027-02-22T16:00:00+01:00",
+    "subject": "Anglais PARTIEL",
+    "room": "",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2027-02-23T0900-cours@edt-m1",
+    "start": "2027-02-23T09:00:00+01:00",
+    "end": "2027-02-23T12:30:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-02-23T1330-cours@edt-m1",
+    "start": "2027-02-23T13:30:00+01:00",
+    "end": "2027-02-23T17:00:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-03-01T0900-cours@edt-m1",
+    "start": "2027-03-01T09:00:00+01:00",
+    "end": "2027-03-01T12:30:00+01:00",
+    "subject": "Management de la supply chain qualité",
+    "room": "",
+    "teacher": "F. LE VEN"
+  },
+  {
+    "uid": "2027-03-01T1330-cours@edt-m1",
+    "start": "2027-03-01T13:30:00+01:00",
+    "end": "2027-03-01T17:00:00+01:00",
+    "subject": "Management de la qualité",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-03-02T0900-cours@edt-m1",
+    "start": "2027-03-02T09:00:00+01:00",
+    "end": "2027-03-02T12:30:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2027-03-02T1330-cours@edt-m1",
+    "start": "2027-03-02T13:30:00+01:00",
+    "end": "2027-03-02T17:00:00+01:00",
+    "subject": "Management de la supply chain qualité",
+    "room": "",
+    "teacher": "F. LE VEN"
+  },
+  {
+    "uid": "2027-03-08T0900-cours@edt-m1",
+    "start": "2027-03-08T09:00:00+01:00",
+    "end": "2027-03-08T12:30:00+01:00",
+    "subject": "Management de la qualité",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-03-08T1330-cours@edt-m1",
+    "start": "2027-03-08T13:30:00+01:00",
+    "end": "2027-03-08T16:00:00+01:00",
+    "subject": "Anglais PARTIEL",
+    "room": "",
+    "teacher": "Luke BAYLIS"
+  },
+  {
+    "uid": "2027-03-09T0900-cours@edt-m1",
+    "start": "2027-03-09T09:00:00+01:00",
+    "end": "2027-03-09T12:30:00+01:00",
+    "subject": "LV2 Espagnol",
+    "room": "",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2027-03-09T1330-cours@edt-m1",
+    "start": "2027-03-09T13:30:00+01:00",
+    "end": "2027-03-09T17:00:00+01:00",
+    "subject": "Politique et stratégie des achats",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-03-15T0900-cours@edt-m1",
+    "start": "2027-03-15T09:00:00+01:00",
+    "end": "2027-03-15T12:30:00+01:00",
+    "subject": "Politique et stratégie des achats",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-03-15T1330-cours@edt-m1",
+    "start": "2027-03-15T13:30:00+01:00",
+    "end": "2027-03-15T17:00:00+01:00",
+    "subject": "Management de la qualité",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-03-16T0900-cours@edt-m1",
+    "start": "2027-03-16T09:00:00+01:00",
+    "end": "2027-03-16T12:30:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-03-16T1330-cours@edt-m1",
+    "start": "2027-03-16T13:30:00+01:00",
+    "end": "2027-03-16T17:00:00+01:00",
+    "subject": "Pratique de la négociation",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-03-22T0900-cours@edt-m1",
+    "start": "2027-03-22T09:00:00+01:00",
+    "end": "2027-03-22T12:30:00+01:00",
+    "subject": "Management de la qualité",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-03-22T1330-cours@edt-m1",
+    "start": "2027-03-22T13:30:00+01:00",
+    "end": "2027-03-22T17:00:00+01:00",
+    "subject": "Management de la supply chain qualité",
+    "room": "",
+    "teacher": "F. LE VEN"
+  },
+  {
+    "uid": "2027-03-23T0900-cours@edt-m1",
+    "start": "2027-03-23T09:00:00+01:00",
+    "end": "2027-03-23T12:30:00+01:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-03-23T1330-cours@edt-m1",
+    "start": "2027-03-23T13:30:00+01:00",
+    "end": "2027-03-23T17:00:00+01:00",
+    "subject": "Gestion des achats et des approvisionnements",
+    "room": "",
+    "teacher": "Lucille PUGLIESE"
+  },
+  {
+    "uid": "2027-03-30T0900-cours@edt-m1",
+    "start": "2027-03-30T09:00:00+02:00",
+    "end": "2027-03-30T12:30:00+02:00",
+    "subject": "Gestion des achats & approvisionnements",
+    "room": "",
+    "teacher": "Lucille PUGLIESE"
+  },
+  {
+    "uid": "2027-03-30T1330-cours@edt-m1",
+    "start": "2027-03-30T13:30:00+02:00",
+    "end": "2027-03-30T17:00:00+02:00",
+    "subject": "Management de la qualité",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-03-31T0900-cours@edt-m1",
+    "start": "2027-03-31T09:00:00+02:00",
+    "end": "2027-03-31T12:30:00+02:00",
+    "subject": "Pratique de la négociation",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-03-31T1330-cours@edt-m1",
+    "start": "2027-03-31T13:30:00+02:00",
+    "end": "2027-03-31T17:00:00+02:00",
+    "subject": "Politique et stratégie des achats",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-04-19T0930-cours@edt-m1",
+    "start": "2027-04-19T09:30:00+02:00",
+    "end": "2027-04-19T12:00:00+02:00",
+    "subject": "Management de la qualité Examen",
+    "room": "",
+    "teacher": "Rachid IHAMOUINE"
+  },
+  {
+    "uid": "2027-04-19T1330-cours@edt-m1",
+    "start": "2027-04-19T13:30:00+02:00",
+    "end": "2027-04-19T16:00:00+02:00",
+    "subject": "Politique et stratégie des achats",
+    "room": "",
+    "teacher": "Marc Prawidlo"
+  },
+  {
+    "uid": "2027-04-20T0900-cours@edt-m1",
+    "start": "2027-04-20T09:00:00+02:00",
+    "end": "2027-04-20T12:30:00+02:00",
+    "subject": "Management de la supply chain qualité",
+    "room": "",
+    "teacher": "F. LE VEN"
+  },
+  {
+    "uid": "2027-04-20T1330-cours@edt-m1",
+    "start": "2027-04-20T13:30:00+02:00",
+    "end": "2027-04-20T17:00:00+02:00",
+    "subject": "Gestion des achats & approvisionnements",
+    "room": "",
+    "teacher": "Lucille PUGLIESE"
+  },
+  {
+    "uid": "2027-04-26T0900-cours@edt-m1",
+    "start": "2027-04-26T09:00:00+02:00",
+    "end": "2027-04-26T12:30:00+02:00",
+    "subject": "Gestion des achats & approvisionnements",
+    "room": "",
+    "teacher": "Lucille PUGLIESE"
+  },
+  {
+    "uid": "2027-04-26T1330-cours@edt-m1",
+    "start": "2027-04-26T13:30:00+02:00",
+    "end": "2027-04-26T16:00:00+02:00",
+    "subject": "LV2 Espagnol PARTIEL",
+    "room": "",
+    "teacher": "C. AGUIRRE"
+  },
+  {
+    "uid": "2027-04-27T1000-cours@edt-m1",
+    "start": "2027-04-27T10:00:00+02:00",
+    "end": "2027-04-27T12:00:00+02:00",
+    "subject": "Méthodologie de recherche mémoire",
+    "room": "",
+    "teacher": "Liliana MITKOVA"
+  },
+  {
+    "uid": "2027-04-27T1330-cours@edt-m1",
+    "start": "2027-04-27T13:30:00+02:00",
+    "end": "2027-04-27T17:00:00+02:00",
+    "subject": "Pratique de la négociation",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-05-03T0900-cours@edt-m1",
+    "start": "2027-05-03T09:00:00+02:00",
+    "end": "2027-05-03T12:30:00+02:00",
+    "subject": "UEL",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-05-03T1330-cours@edt-m1",
+    "start": "2027-05-03T13:30:00+02:00",
+    "end": "2027-05-03T17:00:00+02:00",
+    "subject": "UEL",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-05-04T0900-cours@edt-m1",
+    "start": "2027-05-04T09:00:00+02:00",
+    "end": "2027-05-04T12:30:00+02:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-05-04T1330-cours@edt-m1",
+    "start": "2027-05-04T13:30:00+02:00",
+    "end": "2027-05-04T17:00:00+02:00",
+    "subject": "Management de la supply chain qualité",
+    "room": "",
+    "teacher": "F. LE VEN"
+  },
+  {
+    "uid": "2027-05-10T0900-cours@edt-m1",
+    "start": "2027-05-10T09:00:00+02:00",
+    "end": "2027-05-10T12:30:00+02:00",
+    "subject": "A définir",
+    "room": "",
+    "teacher": ""
+  },
+  {
+    "uid": "2027-05-10T1330-cours@edt-m1",
+    "start": "2027-05-10T13:30:00+02:00",
+    "end": "2027-05-10T17:00:00+02:00",
+    "subject": "Gestion des achats & approvisionnements",
+    "room": "",
+    "teacher": "Lucille PUGLIESE"
+  },
+  {
+    "uid": "2027-05-11T0900-cours@edt-m1",
+    "start": "2027-05-11T09:00:00+02:00",
+    "end": "2027-05-11T12:30:00+02:00",
+    "subject": "Pratique de la négociation",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  },
+  {
+    "uid": "2027-05-11T1330-cours@edt-m1",
+    "start": "2027-05-11T13:30:00+02:00",
+    "end": "2027-05-11T16:00:00+02:00",
+    "subject": "Management de la supply chain qualité PARTIEL",
+    "room": "",
+    "teacher": "F. LE VEN"
+  },
+  {
+    "uid": "2027-05-18T0930-cours@edt-m1",
+    "start": "2027-05-18T09:30:00+02:00",
+    "end": "2027-05-18T12:00:00+02:00",
+    "subject": "Gestion des achats & approvisionnements PARTIEL",
+    "room": "",
+    "teacher": "Lucille PUGLIESE"
+  },
+  {
+    "uid": "2027-05-18T1330-cours@edt-m1",
+    "start": "2027-05-18T13:30:00+02:00",
+    "end": "2027-05-18T16:00:00+02:00",
+    "subject": "Pratique de la négociation PARTIEL",
+    "room": "",
+    "teacher": "Raphaël BELLIERE"
+  }
+]

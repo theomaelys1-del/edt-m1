@@ -1,0 +1,76 @@
+121 cours, 59 trajets — 7 septembre 2026 au 18 mai 2027
+
+Cours sans salle :
+
+- 2026-11-02 09:00 — Contrôle de gestion et analyse des coûts — Nathalie FOURNIER
+- 2026-11-03 09:00 — Géopolitique PARTIEL — Cyril VICTOR
+- 2026-11-03 13:30 — A définir
+- 2026-11-16 13:30 — Contrôle de gestion et analyse des coûts — Nathalie FOURNIER
+- 2026-11-24 09:00 — IA et outils d'aide à la décision — Raphaël BELLIERE
+- 2026-12-14 13:30 — LV2 Espagnol — C. AGUIRRE
+- 2027-01-04 09:00 — Contrôle de gestion et analyse des coûts — Nathalie FOURNIER
+- 2027-01-04 13:30 — Gestion de projet — Marc Prawidlo
+- 2027-01-05 09:00 — IA et outils d'aide à la décision — Raphaël BELLIERE
+- 2027-01-05 13:30 — Droit des affaires — Bastien FERON
+- 2027-01-11 09:00 — Fondamentaux du management & management d'équipe — Rachid IHAMOUINE
+- 2027-01-11 13:30 — Anglais — Luke BAYLIS
+- 2027-01-12 09:00 — Méthodologie de recherche mémoire — Liliana MITKOVA
+- 2027-01-12 13:30 — Gestion de projet — Marc Prawidlo
+- 2027-01-18 09:00 — Anglais — Luke BAYLIS
+- 2027-01-18 13:30 — Politique et stratégie des achats — Marc Prawidlo
+- 2027-01-19 09:00 — Droit des affaires — Bastien FERON
+- 2027-01-19 13:30 — IA et outils d'aide à la décision — Raphaël BELLIERE
+- 2027-01-25 09:00 — IA et outils d'aide à la décision — Raphaël BELLIERE
+- 2027-01-25 13:30 — Anglais — Luke BAYLIS
+- 2027-01-26 09:00 — Politique et stratégie des achats — Marc Prawidlo
+- 2027-01-26 13:30 — Droit des affaires — Bastien FERON
+- 2027-02-01 09:00 — A définir
+- 2027-02-01 13:30 — Contrôle de gestion et analyse des coûts — Nathalie FOURNIER
+- 2027-02-02 09:00 — A définir
+- 2027-02-02 13:30 — Méthodologie de recherche mémoire — Liliana MITKOVA
+- 2027-02-08 09:00 — Anglais — Luke BAYLIS
+- 2027-02-08 13:30 — IA et outils d'aide à la décision PARTIEL — Raphaël BELLIERE
+- 2027-02-09 09:00 — LV2 Espagnol — C. AGUIRRE
+- 2027-02-09 13:30 — Droit des affaires PARTIEL — Bastien FERON
+- 2027-02-22 09:30 — Contrôle de gestion et analyse des coûts PARTIEL — Nathalie FOURNIER
+- 2027-02-22 13:30 — Anglais PARTIEL — Luke BAYLIS
+- 2027-02-23 09:00 — A définir
+- 2027-02-23 13:30 — A définir
+- 2027-03-01 09:00 — Management de la supply chain qualité — F. LE VEN
+- 2027-03-01 13:30 — Management de la qualité — Rachid IHAMOUINE
+- 2027-03-02 09:00 — LV2 Espagnol — C. AGUIRRE
+- 2027-03-02 13:30 — Management de la supply chain qualité — F. LE VEN
+- 2027-03-08 09:00 — Management de la qualité — Rachid IHAMOUINE
+- 2027-03-08 13:30 — Anglais PARTIEL — Luke BAYLIS
+- 2027-03-09 09:00 — LV2 Espagnol — C. AGUIRRE
+- 2027-03-09 13:30 — Politique et stratégie des achats — Marc Prawidlo
+- 2027-03-15 09:00 — Politique et stratégie des achats — Marc Prawidlo
+- 2027-03-15 13:30 — Management de la qualité — Rachid IHAMOUINE
+- 2027-03-16 09:00 — A définir
+- 2027-03-16 13:30 — Pratique de la négociation — Raphaël BELLIERE
+- 2027-03-22 09:00 — Management de la qualité — Rachid IHAMOUINE
+- 2027-03-22 13:30 — Management de la supply chain qualité — F. LE VEN
+- 2027-03-23 09:00 — A définir
+- 2027-03-23 13:30 — Gestion des achats et des approvisionnements — Lucille PUGLIESE
+- 2027-03-30 09:00 — Gestion des achats & approvisionnements — Lucille PUGLIESE
+- 2027-03-30 13:30 — Management de la qualité — Rachid IHAMOUINE
+- 2027-03-31 09:00 — Pratique de la négociation — Raphaël BELLIERE
+- 2027-03-31 13:30 — Politique et stratégie des achats — Marc Prawidlo
+- 2027-04-19 09:30 — Management de la qualité Examen — Rachid IHAMOUINE
+- 2027-04-19 13:30 — Politique et stratégie des achats — Marc Prawidlo
+- 2027-04-20 09:00 — Management de la supply chain qualité — F. LE VEN
+- 2027-04-20 13:30 — Gestion des achats & approvisionnements — Lucille PUGLIESE
+- 2027-04-26 09:00 — Gestion des achats & approvisionnements — Lucille PUGLIESE
+- 2027-04-26 13:30 — LV2 Espagnol PARTIEL — C. AGUIRRE
+- 2027-04-27 10:00 — Méthodologie de recherche mémoire — Liliana MITKOVA
+- 2027-04-27 13:30 — Pratique de la négociation — Raphaël BELLIERE
+- 2027-05-03 09:00 — UEL
+- 2027-05-03 13:30 — UEL
+- 2027-05-04 09:00 — A définir
+- 2027-05-04 13:30 — Management de la supply chain qualité — F. LE VEN
+- 2027-05-10 09:00 — A définir
+- 2027-05-10 13:30 — Gestion des achats & approvisionnements — Lucille PUGLIESE
+- 2027-05-11 09:00 — Pratique de la négociation — Raphaël BELLIERE
+- 2027-05-11 13:30 — Management de la supply chain qualité PARTIEL — F. LE VEN
+- 2027-05-18 09:30 — Gestion des achats & approvisionnements PARTIEL — Lucille PUGLIESE
+- 2027-05-18 13:30 — Pratique de la négociation PARTIEL — Raphaël BELLIERE
